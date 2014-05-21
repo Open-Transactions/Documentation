@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['ca_5ffile',['CA_FILE',['../otd_2main_8cpp.html#acb842c842033e836cb504f29b1de8479',1,'main.cpp']]],
+  ['clear_5fmap_5fand_5fdeque',['CLEAR_MAP_AND_DEQUE',['../_o_t_pseudonym_8cpp.html#a92a5b26afc827a5d28425da232fa3476',1,'OTPseudonym.cpp']]],
+  ['client_5fconfig_5fkey',['CLIENT_CONFIG_KEY',['../_open_transactions_8cpp.html#a4675407b5b05d15570f0483f144789fd',1,'OpenTransactions.cpp']]],
+  ['client_5fdata_5fdir',['CLIENT_DATA_DIR',['../_open_transactions_8cpp.html#a3c2c6b23858dc4cdcce514e29ae41a61',1,'OpenTransactions.cpp']]],
+  ['client_5fdefault_5fis_5fblocking',['CLIENT_DEFAULT_IS_BLOCKING',['../_open_transactions_8cpp.html#a8d9c01e8d496678f796ee06962de888c',1,'OpenTransactions.cpp']]],
+  ['client_5fdefault_5flatency_5fdelay_5fafter',['CLIENT_DEFAULT_LATENCY_DELAY_AFTER',['../_open_transactions_8cpp.html#a307024706ce20afb5f4626ea769e81d2',1,'OpenTransactions.cpp']]],
+  ['client_5fdefault_5flatency_5freceive_5fms',['CLIENT_DEFAULT_LATENCY_RECEIVE_MS',['../_open_transactions_8cpp.html#a260f7705019dbcde2805b187fc32c296',1,'OpenTransactions.cpp']]],
+  ['client_5fdefault_5flatency_5freceive_5fno_5ftries',['CLIENT_DEFAULT_LATENCY_RECEIVE_NO_TRIES',['../_open_transactions_8cpp.html#ac9f275dd072f7e6a8f3513667150a952',1,'OpenTransactions.cpp']]],
+  ['client_5fdefault_5flatency_5fsend_5fms',['CLIENT_DEFAULT_LATENCY_SEND_MS',['../_open_transactions_8cpp.html#a290ff9c13a30b35f59668b82ca68d4e3',1,'OpenTransactions.cpp']]],
+  ['client_5fdefault_5flatency_5fsend_5fno_5ftries',['CLIENT_DEFAULT_LATENCY_SEND_NO_TRIES',['../_open_transactions_8cpp.html#a0a9667963ecd92a68b3b014f07083f0c',1,'OpenTransactions.cpp']]],
+  ['client_5flogfile_5ffilename',['CLIENT_LOGFILE_FILENAME',['../_open_transactions_8cpp.html#a8666fc105432efdd07053787800e7214',1,'OpenTransactions.cpp']]],
+  ['client_5fmaster_5fkey_5ftimeout_5fdefault',['CLIENT_MASTER_KEY_TIMEOUT_DEFAULT',['../_open_transactions_8cpp.html#a6ca020e7a6f02c7a8d769e9fa32dcd01',1,'OpenTransactions.cpp']]],
+  ['client_5fpassword_5ffolder',['CLIENT_PASSWORD_FOLDER',['../_open_transactions_8cpp.html#afa01c4388d318bdf43542fcbf23b0659',1,'OpenTransactions.cpp']]],
+  ['client_5fpath_5fdefault',['CLIENT_PATH_DEFAULT',['../otd_2main_8cpp.html#a2dc726b0ac838ad497799e6a133406be',1,'main.cpp']]],
+  ['client_5fpid_5ffilename',['CLIENT_PID_FILENAME',['../_open_transactions_8cpp.html#ab958b72fdeccb19281ea04c460db92cb',1,'OpenTransactions.cpp']]],
+  ['client_5fuse_5fsystem_5fkeyring',['CLIENT_USE_SYSTEM_KEYRING',['../_open_transactions_8cpp.html#af566d6ce4bb1ffea9f5a698fc199bbc2',1,'OpenTransactions.cpp']]],
+  ['client_5fwallet_5ffilename',['CLIENT_WALLET_FILENAME',['../_open_transactions_8cpp.html#a0b134c6acd01ee1f9ed1fd48cd7c9511',1,'OpenTransactions.cpp']]],
+  ['cmd_5ftype_5f1',['CMD_TYPE_1',['../_o_t_server_connection_8hpp.html#afd0b82ab8c23317807df0f0d0b4f1a65',1,'CMD_TYPE_1():&#160;OTServerConnection.hpp'],['../_o_tglobal_8h.html#afd0b82ab8c23317807df0f0d0b4f1a65',1,'CMD_TYPE_1():&#160;OTglobal.h'],['../_o_t_client_connection_8hpp.html#afd0b82ab8c23317807df0f0d0b4f1a65',1,'CMD_TYPE_1():&#160;OTClientConnection.hpp']]],
+  ['config_5ffile_5fext',['CONFIG_FILE_EXT',['../_o_t_data_folder_8cpp.html#aa2dcfa995ba51776b043c96597c241fc',1,'CONFIG_FILE_EXT():&#160;OTDataFolder.cpp'],['../_o_t_folders_8cpp.html#aa2dcfa995ba51776b043c96597c241fc',1,'CONFIG_FILE_EXT():&#160;OTFolders.cpp'],['../_o_t_paths_8cpp.html#aa2dcfa995ba51776b043c96597c241fc',1,'CONFIG_FILE_EXT():&#160;OTPaths.cpp'],['../_o_t_windows_registry_tools_8cpp.html#aa2dcfa995ba51776b043c96597c241fc',1,'CONFIG_FILE_EXT():&#160;OTWindowsRegistryTools.cpp']]]
+];

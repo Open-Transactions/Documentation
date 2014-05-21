@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['cash',['cash',['../_r_e_a_d_m_e_8md.html#a78fed711a62f392b0e3a972b537ba90d',1,'README.md']]],
+  ['category',['category',['../struct_map_category.html#aa3f4c83afff4db306100ba530e54d32f',1,'MapCategory']]],
+  ['checksum',['checksum',['../unionu__header.html#add5682159892cdcbf169ebdd261533b3',1,'u_header']]],
+  ['cheques',['cheques',['../_r_e_a_d_m_e_8md.html#a58269f586c6d1b6c593865e36aacdf5c',1,'README.md']]],
+  ['cli',['CLI',['../_r_e_a_d_m_e_8md.html#a87cb318c759be08ce003468663cee518',1,'README.md']]],
+  ['command',['command',['../struct_map_category.html#a6b08e17f835d099fb46b32d960dcf8f0',1,'MapCategory::command()'],['../struct_map_help.html#ab2e13d1fbac67d7ccd468dcc413016c8',1,'MapHelp::command()'],['../struct_map_function.html#ae23b062c242fe0617cc2477470716585',1,'MapFunction::command()']]],
+  ['command_5fid',['command_id',['../unionu__header.html#ac2f7bc78d1449e64ddde966b91cdfabc',1,'u_header']]],
+  ['communicate',['communicate',['../_r_e_a_d_m_e_8md.html#a0320ee5b14178cde46cd8576955598fe',1,'README.md']]],
+  ['completed_5fcount',['completed_count',['../class_o_t_d_b_1_1_trade_data_nym.html#a4b63388a4e4a5b41301e179b6e7b2959',1,'OTDB::TradeDataNym']]],
+  ['contact_5fid',['contact_id',['../class_o_t_d_b_1_1_contact.html#a14c84002e92a4734d5895e27488e9fd0',1,'OTDB::Contact']]],
+  ['currencies',['currencies',['../_r_e_a_d_m_e_8md.html#acb22bb19f03507a90af22d385b95bc6a',1,'README.md']]],
+  ['currency_5facct_5fid',['currency_acct_id',['../class_o_t_d_b_1_1_offer_data_nym.html#ae6a57a2226f59e4364de65f299f7c304',1,'OTDB::OfferDataNym']]],
+  ['currency_5fid',['currency_id',['../class_o_t_d_b_1_1_trade_data_nym.html#ae76da6793153234a99d921ba31f43e19',1,'OTDB::TradeDataNym']]],
+  ['currency_5fpaid',['currency_paid',['../class_o_t_d_b_1_1_trade_data_nym.html#aa42687f4cda7472c1d8c8515f4fd2e4c',1,'OTDB::TradeDataNym']]],
+  ['currency_5ftype_5fid',['currency_type_id',['../class_o_t_d_b_1_1_market_data.html#a1116aae82af6f197a038688704c2138f',1,'OTDB::MarketData::currency_type_id()'],['../class_o_t_d_b_1_1_offer_data_nym.html#a1343a8d4cd9379f17782df3d3afe2a49',1,'OTDB::OfferDataNym::currency_type_id()']]],
+  ['current_5fask',['current_ask',['../class_o_t_d_b_1_1_market_data.html#aae01cd5fa908b576bc2309ff4bc28ff4',1,'OTDB::MarketData']]],
+  ['current_5fbid',['current_bid',['../class_o_t_d_b_1_1_market_data.html#a34e5138f9d4a2c77bfd646f4ecce6845',1,'OTDB::MarketData']]]
+];

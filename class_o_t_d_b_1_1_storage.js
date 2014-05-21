@@ -1,0 +1,27 @@
+var class_o_t_d_b_1_1_storage =
+[
+    [ "Storage", "class_o_t_d_b_1_1_storage.html#a5ae0975b59302af5db60a07fe62a8866", null ],
+    [ "Storage", "class_o_t_d_b_1_1_storage.html#a6a4746026fab425c763b4e3bc96fa9ad", null ],
+    [ "~Storage", "class_o_t_d_b_1_1_storage.html#ad2935f257da1cf442977e4ab0dd39df2", null ],
+    [ "Create", "class_o_t_d_b_1_1_storage.html#a199a7b1ff81c4b21313c56f87c335cf8", null ],
+    [ "CreateObject", "class_o_t_d_b_1_1_storage.html#af62d7242fc913271e2fe6bb8a1f83058", null ],
+    [ "DecodeObject", "class_o_t_d_b_1_1_storage.html#aad0915815731eb6fae855201ad2e546e", null ],
+    [ "EncodeObject", "class_o_t_d_b_1_1_storage.html#a556f849aec75ad90b4a65367fdf64fc1", null ],
+    [ "EraseValueByKey", "class_o_t_d_b_1_1_storage.html#ad1a20354a3bf349b33ea8ce9b0db0d64", null ],
+    [ "Exists", "class_o_t_d_b_1_1_storage.html#a673cc44af5ff1d1f554448f6c071cf52", null ],
+    [ "FormPathString", "class_o_t_d_b_1_1_storage.html#a56e44bd61118076a29a663ac6736c170", null ],
+    [ "GetPacker", "class_o_t_d_b_1_1_storage.html#a693564a7129d4c08f739a398929e83c6", null ],
+    [ "GetType", "class_o_t_d_b_1_1_storage.html#adb711f92bb67369948e681e94ed9d4dd", null ],
+    [ "onEraseValueByKey", "class_o_t_d_b_1_1_storage.html#a2c7ec7f4a2f5b9b6b7de8e9d14f0ff7d", null ],
+    [ "onQueryPackedBuffer", "class_o_t_d_b_1_1_storage.html#a2aa1ed8d2f7aa00dda6b1d6d2eba8dd7", null ],
+    [ "onQueryPlainString", "class_o_t_d_b_1_1_storage.html#a280e22d02a13a007cac289c863dfa477", null ],
+    [ "onStorePackedBuffer", "class_o_t_d_b_1_1_storage.html#a602c7c49e4fba4fa31b235c8449df641", null ],
+    [ "onStorePlainString", "class_o_t_d_b_1_1_storage.html#a0e437e176d378d0a0df6de71557997da", null ],
+    [ "QueryObject", "class_o_t_d_b_1_1_storage.html#acb4fbcf9c61d36f7e4c6f6ef23812cfb", null ],
+    [ "QueryPlainString", "class_o_t_d_b_1_1_storage.html#a5d4c09862e7067ea0280db758a7e7324", null ],
+    [ "QueryString", "class_o_t_d_b_1_1_storage.html#a96d2b2f3d03cee30a6d0c6947c7a0fac", null ],
+    [ "SetPacker", "class_o_t_d_b_1_1_storage.html#a452d642f457d60fd7594b79f83711458", null ],
+    [ "StoreObject", "class_o_t_d_b_1_1_storage.html#a8e54119f93134acde9b6072f61e16e1b", null ],
+    [ "StorePlainString", "class_o_t_d_b_1_1_storage.html#aa65f18e1cc6a7e6cf117e4ba10d81612", null ],
+    [ "StoreString", "class_o_t_d_b_1_1_storage.html#a0f9e6a3496dd3d11a845d8d990bef211", null ]
+];

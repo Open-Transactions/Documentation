@@ -1,0 +1,25 @@
+var class_o_t_folders =
+[
+    [ "Account", "class_o_t_folders.html#af86d08d57db82ead3572074bccfb53ef", null ],
+    [ "Cert", "class_o_t_folders.html#a340bfd0a9302aa1f6436ebc365a391d7", null ],
+    [ "Contract", "class_o_t_folders.html#ac8ac28307d688d0defee0fd7734be027", null ],
+    [ "Credential", "class_o_t_folders.html#a4e94eac1e796da34baf00556042202f0", null ],
+    [ "Cron", "class_o_t_folders.html#aabb5605423422af18b156b9cd5e48c22", null ],
+    [ "ExpiredBox", "class_o_t_folders.html#a1dfba6274248dcc7cb910770635720f6", null ],
+    [ "Inbox", "class_o_t_folders.html#a6f314709ced53a8c542eb5ef53126b39", null ],
+    [ "Market", "class_o_t_folders.html#a7ed5b4b672d4645f7f72f9ca94421a61", null ],
+    [ "Mint", "class_o_t_folders.html#a821d8437b66e62cca2782da52777f299", null ],
+    [ "Nym", "class_o_t_folders.html#a3bcdf222bf351ad8b5cfb37e9b8e5143", null ],
+    [ "Nymbox", "class_o_t_folders.html#ada1729c82d6ebbfa53b16d511d2aded4", null ],
+    [ "Outbox", "class_o_t_folders.html#af4ad3cfbb3030044148f03fd8020c41a", null ],
+    [ "PaymentInbox", "class_o_t_folders.html#a92fc938529eac80e1a040a664d844847", null ],
+    [ "Pubcred", "class_o_t_folders.html#a00c7ea89471a90172d166a8c0eb321a6", null ],
+    [ "Pubkey", "class_o_t_folders.html#a691fb355263301e19f8239915cddf3f2", null ],
+    [ "Purse", "class_o_t_folders.html#a2793558f559a595e6e7b7c09cfac28d7", null ],
+    [ "Receipt", "class_o_t_folders.html#ad5d313f4dc313c7b79780288c14e9c83", null ],
+    [ "RecordBox", "class_o_t_folders.html#a33b17e178549458a5fa7596dcf38adc6", null ],
+    [ "Script", "class_o_t_folders.html#a239ca53367b40bb240cc245ca4e34066", null ],
+    [ "SmartContracts", "class_o_t_folders.html#a698b8fd86486783a1b21ec54e1d0867e", null ],
+    [ "Spent", "class_o_t_folders.html#a42ae2661716e4b253807bf95f6d9697e", null ],
+    [ "UserAcct", "class_o_t_folders.html#a2651fe13634bb3164059f4969ae0dc65", null ]
+];
